@@ -30,7 +30,7 @@ bin
 .classpath
 .project
 
-# idea
+# .idea
 out
 *.ipr
 *.iws
@@ -44,3 +44,5 @@ build
 # other
 eclipse
 run
+
+#build
